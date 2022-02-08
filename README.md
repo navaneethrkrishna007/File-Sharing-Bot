@@ -48,8 +48,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
 
-[!]([Deploy To Railway (https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna007%2FFile-Sharing-Bot&envs=API_HASH%2CAPI_ID%2CTG_BOT_TOKEN%2COWNER_ID%2CCHANNEL_ID%2CADMINS%2CSTART_MESSAGE%2CFORCE_SUB_MESSAGE%2CFORCE_SUB_CHANNEL&optionalEnvs=ADMINS%2CSTART_MESSAGE%2CFORCE_SUB_MESSAGE%2CFORCE_SUB_CHANNEL&API_HASHDesc=Your+API+Hash+from+my.telegram.org&API_IDDesc=Your+API+ID+from+my.telegram.org&TG_BOT_TOKENDesc=Your+bot+token+from+%40BotFather&OWNER_IDDesc=Must+enter+Your+Telegram+Id&CHANNEL_IDDesc=Your+Channel+ID+eg%3A-+-100xxxxxxxx&ADMINSDesc=A+space+separated+list+of+user_ids+of+Admins%2C+they+can+only&START_MESSAGEDesc=start+message+of+bot%2C+use+HTML+and+fillings&FORCE_SUB_MESSAGEDesc=Force+sub+message+of+bot%2C+use+HTML+and+Fillings&FORCE_SUB_CHANNELDesc=ForceSub+Channel+ID%2C+leave+0+if+you+want+disable+force+sub)
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
